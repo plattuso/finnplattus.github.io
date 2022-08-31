@@ -1,9 +1,27 @@
-<html>
- 
-<body>
-  <h1>I'm Finn and this is my webpage!</h1>
-  <p>Welcome to my website!</p>
-  <img src="https://content.codecademy.com/articles/github-pages-via-web-app/happy-ice-cream.gif" />
-</body>
- 
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <link href="./resources/css/index.css" type="text/css" rel="stylesheet">
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Finn's Page</title>
+    </head>
+    <body>
+        <header>
+            <h1>Hello! I'm Finn!</h1>
+            <p>--And this is my webpage!</p>
+        </header>
+        <div>
+            <p>I'm learning to code more professionally on Codecademy. I have a bit of experience but nothing like this!</p>
+            <p>Some things that I want to do are:</p>
+            <ul>
+                <li>Support myself and my family</li>
+                <li>Serve my community with my talents</li>
+                <li>Serve God through my life</li>
+            </ul>
+            <p>Those are the things that I want to do</p>
+        </div>
+
+    </body>
 </html>
